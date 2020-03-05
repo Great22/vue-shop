@@ -1,0 +1,205 @@
+{
+  "id": "1658511",
+  "name": "外卖",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2120315",
+      "name": "icon_close",
+      "font_class": "close1",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "964883",
+      "name": "icon-close",
+      "font_class": "close",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "1535301",
+      "name": "Icon_Search on",
+      "font_class": "Icon_Searchon",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "1629840",
+      "name": "icon_favorite",
+      "font_class": "favorite",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "4379386",
+      "name": "icon_order from_gree",
+      "font_class": "icon_orderfrom_gree",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "4528296",
+      "name": "icon_jiantou2",
+      "font_class": "icon_jiantou",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "4680937",
+      "name": "icon_fenxiang",
+      "font_class": "icon_fenxiang",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "5651418",
+      "name": "icon_check_circle",
+      "font_class": "check_circle",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5939027",
+      "name": "icon_vip_medal comme_32px",
+      "font_class": "icon_vip_medalcomme",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "6378778",
+      "name": "icon-arrow--left",
+      "font_class": "btn_back",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "6636987",
+      "name": "icon-sousuo",
+      "font_class": "icon-sousuo",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "7173519",
+      "name": "icon-add-circle",
+      "font_class": "icon-add-circle",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "7230827",
+      "name": "icon_shouji",
+      "font_class": "icon_shouji",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "7260224",
+      "name": "icon_geren",
+      "font_class": "icon_geren",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "7329262",
+      "name": "icon_dingdan",
+      "font_class": "icon_dingdan",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "8788440",
+      "name": "icon_shoping cart",
+      "font_class": "gouwuche",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "8852817",
+      "name": "icon-personal on",
+      "font_class": "icon-personalon",
+      "unicode": "e76a",
+      "unicode_decimal": 59242
+    },
+    {
+      "icon_id": "8917270",
+      "name": "icon-waimai",
+      "font_class": "icon-waimai-copy",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "10443112",
+      "name": "icon_jifen@2x",
+      "font_class": "icon_jifenx",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "10750012",
+      "name": "icon-fuwu3",
+      "font_class": "shiqingshenqingbiaodanfuzhi",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "11340306",
+      "name": "icon-jiantou1",
+      "font_class": "-bulb",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "11743777",
+      "name": "zhedie",
+      "font_class": "zhedie",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "11883355",
+      "name": "Icon - Keyboard Arrow - Left - Rounded",
+      "font_class": "Icon-KeyboardArrow-Left-Rounded",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "12552967",
+      "name": "Icon - Keyboard Arrow - Down - Rounded",
+      "font_class": "arrow-down",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "13123470",
+      "name": "icon-jiantou2",
+      "font_class": "icon-jiantou2",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "13123482",
+      "name": "icon-thumb_down",
+      "font_class": "icon-thumb_down",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "13123483",
+      "name": "icon-thumb_up",
+      "font_class": "icon-thumb_up",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "13124005",
+      "name": "icon-remove_circl",
+      "font_class": "icon-remove_circl",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
